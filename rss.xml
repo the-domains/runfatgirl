@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[RunFatGirl]]></title>
         <description><![CDATA[RunFatGirl]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/runfatgirl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 03:05:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 03:20:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/runfatgirl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is a test post and I want to see how it works.</p>]]></description>
-            <link>undefined3a029a90-2d7b-4fb6-b9f5-c35f54660d3f/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/961309ab-0d89-4030-93aa-4ad699086b42.jpg">]]></description>
+            <link>https://thegrid.ai/runfatgirl/3a029a90-2d7b-4fb6-b9f5-c35f54660d3f/index.html</link>
             <guid isPermaLink="false">3a029a90-2d7b-4fb6-b9f5-c35f54660d3f</guid>
-            <pubDate>Mon, 22 Feb 2016 03:05:34 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 03:20:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
