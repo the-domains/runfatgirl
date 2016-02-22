@@ -1,7 +1,7 @@
 name: RunFatGirl
 favicon: null
-layout_spectrum: 0.9131091297604144
-typography_spectrum: 0.365986610064283
+layout_spectrum: 0.63472
+typography_spectrum: 0.12036
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.8447066633962095
+    - '#fff9e9'
+    - '#f9789f'
+    - '#ada6ad'
+    - '#756f79'
+    - '#373a4d'
+  brandStrength: 0.8125
   lightness: 0.23287371918559074
   saturation: 0.36634306190535426
-  rhythmicContrast: 0.06798408948816359
+  rhythmicContrast: 0.25
 purpose: []
